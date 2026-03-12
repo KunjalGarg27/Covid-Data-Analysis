@@ -9,9 +9,8 @@ This project performs data analysis and visualization of COVID-19 trends in Indi
 
 The project uses real-world datasets and generates visualizations to help understand how the pandemic affected different sectors in India.
 
-**Objectives**
-
-The main objectives of this project are:
+**Objectives**\n
+The main objectives of this project are:\n
 Analyze state-wise COVID-19 trends
 Study vaccination coverage across India
 Evaluate healthcare infrastructure readiness
