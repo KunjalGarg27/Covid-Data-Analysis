@@ -20,30 +20,20 @@ The main objectives of this project are:
 
 **Technologies & Libraries Used**
 
-Python
-Pandas – Data cleaning, manipulation, and analysis
-NumPy – Numerical computations
-Matplotlib – Data visualization
-Seaborn – Statistical visualizations and regression plots
-PyFiglet – ASCII banner for terminal interface
-Colorama – Colored console output
+1. Python
+2. Pandas – Data cleaning, manipulation, and analysis
+3. NumPy – Numerical computations
+4. Matplotlib – Data visualization
+5. Seaborn – Statistical visualizations and regression plots
+6. PyFiglet – ASCII banner for terminal interface
+7. Colorama – Colored console output
 
 **Datasets Used**
 
-The project uses multiple datasets including:
-State-wise COVID case data
-Vaccination statistics
-Hospital infrastructure data
-ICU beds and ventilator data
-Unemployment and GDP loss datasets
+1. The project uses multiple datasets including:
+2. State-wise COVID case data
+3. Vaccination statistics
+4. Hospital infrastructure data
+5. ICU beds and ventilator data
+6. Unemployment and GDP loss datasets
 
-**Project Structure**
-COVID-19-Data-Analysis/
-│
-├── covid_project.py
-├── vaccination data.xlsx
-├── hospital_beds.csv
-├── covid 190 data.xlsx
-├── Latest Covid-19 India Status.csv
-├── india_gdp_loss_covid_simulated.csv
-└── README.md
