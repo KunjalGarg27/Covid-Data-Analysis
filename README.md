@@ -1,4 +1,5 @@
-**COVID-19 Data Analysis Project (India) Project Overview **
+**COVID-19 Data Analysis Project (India) Project Overview**
+
 This project performs data analysis and visualization of COVID-19 trends in India using Python. It analyzes multiple aspects of the pandemic including:
 1. COVID-19 cases, recoveries, and deaths across Indian states
 2. Vaccination distribution and progress
