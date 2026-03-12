@@ -10,6 +10,7 @@ This project performs data analysis and visualization of COVID-19 trends in Indi
 The project uses real-world datasets and generates visualizations to help understand how the pandemic affected different sectors in India.
 
 **Objectives**
+
 The main objectives of this project are:
 Analyze state-wise COVID-19 trends
 Study vaccination coverage across India
@@ -19,6 +20,7 @@ Perform data-driven insights and regression analysis
 Provide policy recommendations and research implications
 
 **Technologies & Libraries Used**
+
 Python
 Pandas – Data cleaning, manipulation, and analysis
 NumPy – Numerical computations
@@ -28,6 +30,7 @@ PyFiglet – ASCII banner for terminal interface
 Colorama – Colored console output
 
 **Datasets Used**
+
 The project uses multiple datasets including:
 State-wise COVID case data
 Vaccination statistics
